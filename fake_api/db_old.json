@@ -1,0 +1,45 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "producto": "Neveras",
+      "descripcion": "nevera nueva",
+      "precio": 3000,
+      "unidades": 4,
+      "tableData": {
+        "id": 0
+      }
+    },
+    {
+      "id": 2,
+      "producto": "Tv",
+      "descripcion": "Tv usado",
+      "precio": 7000,
+      "unidades": 2
+    },
+    {
+      "id": 3,
+      "producto": "PC",
+      "descripcion": "PC nueva",
+      "precio": 10000,
+      "unidades": 10
+    },
+    {
+      "id": 4,
+      "producto": "Blue-ray",
+      "descripcion": "Usado",
+      "precio": 2000,
+      "unidades": 7
+    },
+    {
+      "id": 5,
+      "producto": "Monitor",
+      "descripcion": "usado",
+      "precio": "470",
+      "unidades": "6",
+      "tableData": {
+        "id": 4
+      }
+    }
+  ]
+}
